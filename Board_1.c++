@@ -1,4 +1,4 @@
-// BOARD 1 with PIR Sensor SLAVE Board
+// BOARD 1 with PIR Sensor SLAVE Board, To detect Motion
 #include <Wire.h>
 
 const int motionSensorPin = 2; // Pin for the PIR motion sensor
